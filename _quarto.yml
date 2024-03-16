@@ -15,7 +15,7 @@ website:
         href: index.xml
 format:
   html:
-    theme:  morph
+    theme:  lux
     css: styles.css
 
 
