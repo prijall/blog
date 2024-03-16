@@ -2,16 +2,17 @@
 title: "Prijal Khadka"
 about:
   template: solana
+ image: prijal.jpg
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/thinam-tamang/
+      href: https://www.linkedin.com/in/prijal-khadka-801112241/
     - icon: github
       text: Github
-      href: https://github.com/ThinamXx
+      href: https://github.com/prijall
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/thinam_
+      href: https://twitter.com/kprijal4
 
 ---
 
