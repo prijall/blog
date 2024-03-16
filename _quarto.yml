@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Welcome to my blog!"
+  navbar:
+    right:
+      - about.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/prijal-khadka-801112241/
+      - icon: github
+        href: https://github.com/prijall
+      - icon: twitter
+        href: https://twitter.com/kprijal4
+format:
+  html:
+    theme: lux
+    css: styles.css
+
+
