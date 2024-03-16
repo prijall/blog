@@ -1,0 +1,23 @@
+---
+title: "Prijal Khadka"
+about:
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/thinam-tamang/
+    - icon: github
+      text: Github
+      href: https://github.com/ThinamXx
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/thinam_
+
+---
+
+Experienced Machine Learning Scientist with 4+ years of proven expertise in natural language processing, machine learning, deep learning, and data science. Passionate about leveraging artificial intelligence and machine learning to drive innovation, solve complex problems, and gain valuable insights.
+
+Solving problems and gaining insights with the help of machine learning algorithms have always felt like superpowers to me. I am here to apply my skills and knowledge to tackle challenges head-on, continuously learning and growing in the process. 
+
+
+
