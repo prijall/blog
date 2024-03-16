@@ -4,8 +4,6 @@ project:
 
 website:
   title: "Blog"
-  site-url: https://github.com/prijall/blog.git
-  description: 'My Blogs'
   navbar:
     right:
       - about.qmd
